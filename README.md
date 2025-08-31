@@ -31,7 +31,6 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 - Surveillance de contenu web  
 - Analyse de données concurrentielles  
 - Automatisation de tâches de recherche d’information  
-
 ---
 
 
