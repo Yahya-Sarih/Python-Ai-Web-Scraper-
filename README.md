@@ -34,11 +34,4 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 
 ---
 
-##  Prérequis
-
-- **Python 3.13.3**  
-- **Ollama** avec modèle **Llama3.2** installé  
-- Accès à **Bright Data** (proxy scraping)  
-
----
 
