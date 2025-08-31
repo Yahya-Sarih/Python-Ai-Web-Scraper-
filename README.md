@@ -1,10 +1,10 @@
-# 🕸️ Python-AI-Web-Scraper
+#  Python-AI-Web-Scraper
 
 Un outil intelligent de scraping web utilisant l'intelligence artificielle pour extraire automatiquement les informations pertinentes des sites web.
 
 ---
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 
 - **Scraping intelligent** : Utilise **Selenium** avec proxy pour accéder aux sites web modernes  
 - **Traitement IA** : Intègre **Ollama/Llama3.2** pour l'extraction intelligente de données  
@@ -14,7 +14,7 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Python** – Langage principal  
 - **Streamlit** – Interface web interactive  
@@ -25,7 +25,7 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 
 ---
 
-## 🎯 Cas d'utilisation
+##  Cas d'utilisation
 
 - Extraction de données structurées depuis des sites non-API  
 - Surveillance de contenu web  
@@ -34,7 +34,7 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 
 ---
 
-## 📋 Prérequis
+##  Prérequis
 
 - **Python 3.13.3**  
 - **Ollama** avec modèle **Llama3.2** installé  
@@ -42,17 +42,3 @@ Un outil intelligent de scraping web utilisant l'intelligence artificielle pour 
 
 ---
 
-## ⚡ Installation
-
-```bash
-# Cloner le projet
-git clone https://github.com/<ton-username>/Python-Ai-Web-Scraper.git
-cd Python-Ai-Web-Scraper
-
-# Créer un environnement virtuel
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-
-# Installer les dépendances
-pip install -r requirements.txt
